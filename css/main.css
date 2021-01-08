@@ -104,7 +104,7 @@ header h1 {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url("/img/coding-1853305_1280.jpg");
+  background-image: url("https://agnwoj99.github.io/DesignCode/img/coding-1853305_1280.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -194,7 +194,7 @@ header .fa-angle-double-down {
 
 #aboutus-hero .jumbotron {
   position: relative;
-  background-image: url("../img/business-1839876_1280.jpg");
+  background-image: url("https://agnwoj99.github.io/DesignCode/img/business-1839876_1280.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -303,7 +303,7 @@ header .fa-angle-double-down {
 
 #team .jumbotron {
   position: relative;
-  background-image: url("../img/laptop-1835029_1280.jpg");
+  background-image: url("https://agnwoj99.github.io/DesignCode/img/laptop-1835029_1280.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -393,7 +393,7 @@ header .fa-angle-double-down {
 
 #contact .jumbotron {
   position: relative;
-  background-image: url("/img/buildings-205986_1280.jpg");
+  background-image: url("https://agnwoj99.github.io/DesignCode/img/buildings-205986_1280.jpg");
   background-position: center;
   background-size: cover;
   z-index: 0;
