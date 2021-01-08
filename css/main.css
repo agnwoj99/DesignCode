@@ -447,15 +447,16 @@ header .fa-angle-double-down {
 
 footer p {
   position: absolute;
-  left: 25px;
+  left: 15px;
   right: 0;
   padding: 20px;
   margin-bottom: 0;
+  font-size: 12px;
 }
 
 footer p span {
   position: absolute;
-  right: 35px;
+  right: 30px;
 }
 
 @media (min-width: 375px) {
